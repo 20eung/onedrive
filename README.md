@@ -186,7 +186,9 @@ y/n>
 2024/01/13 10:06:01 NOTICE: Waiting for code...
 ```
 
-< IMG >
+<img src="./img/001.png" width=100%>
+<img src="./img/002.png" width=100%>
+<img src="./img/003.png" width=100%>
 
 ```
 2024/01/13 10:11:25 NOTICE: Got code
@@ -344,7 +346,7 @@ C:rclone> nssm.exe install rclone_mount
 Administrator access is needed to install a service.
 ```
 
-< IMG >
+<img src="./img/nssm.png" width=100%>
 
 Environment variables such as %APPDATA% do not apply. Enter the Full Path.
 
