@@ -355,3 +355,5 @@ Environment variables such as %APPDATA% do not apply. Enter the Full Path.
 > Startup directory: C:\rclone
 > 
 > Arguments: mount OneDrive: G: --config "C:\rclone\rclone.conf" --log-level=INFO --log-file="C:\rclone\rclone_mount.log" --cache-dir C:\rclone --dir-cache-time=48h --vfs-cache-mode full --vfs-read-chunk-size=32M --vfs-read-chunk-size-limit=2G
+
+<img src="./img/services.png" width=100%>
